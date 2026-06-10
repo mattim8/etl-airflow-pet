@@ -5,5 +5,3 @@ __pycache__/
 .airflow/
 logs/
 plugins/
-screenshots/*.png
-!screenshots/.gitkeep
