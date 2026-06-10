@@ -1,0 +1,9 @@
+[project]
+name = "etl-airflow-pet"
+version = "0.1.0"
+description = "Incremental Airflow ETL demo from PostgreSQL to MS SQL."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
