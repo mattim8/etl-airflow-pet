@@ -2,5 +2,3 @@ SQLAlchemy==2.0.30
 psycopg2-binary==2.9.9
 pyodbc==5.1.0
 pytest==8.2.2
-apache-airflow-providers-postgres==5.11.3
-apache-airflow-providers-microsoft-mssql==3.7.2
